@@ -1,4 +1,4 @@
-# Jim Shaped Coding Django Project
+# Market Django Project
 
 ## This Readme file explains two ways to execute this website on your local environment
 
